@@ -22,7 +22,7 @@ In our version, we created a **racetrack with boundaries, random cones, and a mo
 
 ---
 
-## 🛠What You’ll Need
+## What You’ll Need
 
 * MATLAB R2023a or later
 * Vehicle Dynamics Blockset™ (for skidpad concepts; though our simulation runs with plain MATLAB plotting)
